@@ -1,15 +1,5 @@
 # DevOps_Milestone2
 
-**TEAM NAME:**  Azra
-
-####Team members
-
-2. Pranav Firake; ppfirake@ncsu.edu
-3. Ajay Chandra Pendyala; apendya@ncsu.edu
-4. Sunil Narasimhamurthy; snarasi5@ncsu.edu
-5. Sohan Kunkerkar; sakunker@ncsu.edu
-
-
 ## Ansible Scripts
 
 1. [checkboxio.yml](https://github.ncsu.edu/ppfirake/DevOps_Project/blob/DevOps_Milestone2/checkboxio.yml)
